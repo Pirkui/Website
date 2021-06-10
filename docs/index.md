@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Pirkui/Website/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pirkui/Website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<table style="height: 24px;" width="526">
+<tbody>
+<tr>
+<td style="width: 98.8571px;">Discord<a href="https://discord.gg/t8BmA2vdAS" target="_blank" rel="noopener"><img src="https://html5-editor.net/tinymce/plugins/emoticons/img/smiley-cool.gif" alt="cool" width="11" height="11" /></a></td>
+<td style="width: 98.8571px;">Twitch<a href="https://www.twitch.tv/potatoman432432" target="_blank" rel="noopener"><img src="https://html5-editor.net/tinymce/plugins/emoticons/img/smiley-smile.gif" alt="smile" width="13" height="13" /></a></td>
+<td style="width: 98.8571px;">Youtube<a href="https://www.youtube.com/channel/UCW7bNX9GPdqCvqTD3njlAcQ" target="_blank" rel="noopener"><img src="https://html5-editor.net/tinymce/plugins/emoticons/img/smiley-kiss.gif" alt="kiss" width="13" height="13" /></a></td>
+<td style="width: 98.8571px;">Merch<img src="https://html5-editor.net/tinymce/plugins/emoticons/img/smiley-wink.gif" alt="wink" width="12" height="12" /></td>
+<td style="width: 98.8571px;">Insta<a href="https://www.instagram.com/prod_lil_wolfiee/" target="_blank" rel="noopener"><img src="https://html5-editor.net/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" alt="foot-in-mouth" width="11" height="11" /></a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">&nbsp;</p>
+<p><a href="https://discord.gg/t8BmA2vdAS" target="_blank" rel="noopener"><img src="https://i.gifer.com/origin/9d/9df23a9d50b2a3d2cb5421526f0b5f6c_w200.gif" alt="" width="99" height="99" /><img src="https://i.gifer.com/origin/9d/9df23a9d50b2a3d2cb5421526f0b5f6c_w200.gif" alt="" width="99" height="99" /><img src="https://i.gifer.com/origin/9d/9df23a9d50b2a3d2cb5421526f0b5f6c_w200.gif" alt="" width="99" height="99" /><img src="https://i.gifer.com/origin/9d/9df23a9d50b2a3d2cb5421526f0b5f6c_w200.gif" alt="" width="99" height="99" /><img src="https://i.gifer.com/origin/9d/9df23a9d50b2a3d2cb5421526f0b5f6c_w200.gif" alt="" width="99" height="99" /></a></p>
+<p style="text-align: center;">𝙏𝙝𝙞𝙨 𝙞𝙨 𝙖 𝙨𝙚𝙧𝙫𝙚𝙧 𝙬𝙝𝙚𝙧𝙚 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙧𝙚𝙡𝙖𝙭,𝙝𝙖𝙫𝙚 𝙛𝙪𝙣,𝙢𝙖𝙠𝙚 𝙛𝙧𝙞𝙚𝙣𝙙𝙨,𝙩𝙖𝙡𝙠 𝙖𝙗𝙤𝙪𝙩 𝙜𝙖𝙢𝙞𝙣𝙜,𝙥𝙤𝙨𝙩 𝙢𝙚𝙢𝙚𝙨,𝙥𝙤𝙨𝙩 𝙢𝙪𝙨𝙞𝙘 𝙖𝙣𝙙 𝙝𝙖𝙫𝙚 𝙖 𝙜𝙤𝙤𝙙 𝙩𝙞𝙢𝙚!!</p>
+<p style="text-align: center;">𝘾𝙊𝙊𝙇 𝙈𝙊𝘿𝙎 𝘼𝙉𝘿 𝘼𝘿𝙈𝙄𝙉𝙎!!!</p>
+<p style="text-align: center;">𝘼𝙒𝙀𝙎𝙊𝙈𝙀 𝘾𝙊𝙈𝙈𝙐𝙉𝙄𝙏𝙔 !!!</p>
+<p style="text-align: center;">𝙔𝙊𝙐𝙍 𝙁𝘼𝙑𝙊𝙍𝙄𝙏𝙀 𝘽𝙊𝙏𝙎 𝘼𝙉𝘿 𝙈𝙊𝙍𝙀 !!!</p>
+<p style="text-align: center;">𝙇𝙊𝙏𝙎 𝙊𝙁 𝙀𝙑𝙀𝙉𝙏𝙎 𝘼𝙉𝘿 𝙎𝙊 𝙈𝙐𝘾𝙃 𝙈𝙊𝙍𝙀𝙀𝙀𝙀 𝗖𝗔𝗡𝗧 𝗪𝗔𝗜𝗧 𝗧𝗢 𝗦𝗘𝗘 𝗬𝗔 𝗧𝗛𝗘𝗥𝗘 !!!!</p>
+<p><img src="https://i.gifer.com/origin/9d/9df23a9d50b2a3d2cb5421526f0b5f6c_w200.gif" alt="" width="99" height="99" /><img src="https://i.gifer.com/origin/9d/9df23a9d50b2a3d2cb5421526f0b5f6c_w200.gif" alt="" width="104" height="104" /><img src="https://i.gifer.com/origin/9d/9df23a9d50b2a3d2cb5421526f0b5f6c_w200.gif" alt="" width="104" height="104" /><img src="https://i.gifer.com/origin/9d/9df23a9d50b2a3d2cb5421526f0b5f6c_w200.gif" alt="" width="104" height="104" /><img src="https://i.gifer.com/origin/9d/9df23a9d50b2a3d2cb5421526f0b5f6c_w200.gif" alt="" width="100" height="100" /></p>
+<p><iframe src="//www.youtube.com/embed/7KzY2Nrm1ho" width="200" height="112" allowfullscreen="allowfullscreen"></iframe><iframe src="//www.youtube.com/embed/9srUxRmGSx0" width="200" height="112" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>WE GOT MUSIC CREATOR AND STREAMER</strong></p>
